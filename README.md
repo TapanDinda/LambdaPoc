@@ -1,0 +1,2 @@
+# LambdaPoc
+Serverless deployment poc
