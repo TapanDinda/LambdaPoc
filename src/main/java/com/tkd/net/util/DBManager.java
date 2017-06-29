@@ -36,7 +36,6 @@ public class DBManager {
 			try {is.close();} catch (IOException e) {}
 		}
 	}
-	
 	public static Connection getConnection(){
 		return conn;
 	}
